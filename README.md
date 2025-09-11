@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 안녕하세요,저는 권예진입니다!
 
-<!--
-**yejin1101/yejin1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 소개
+- 🎓 고등학교 검정고시 후 유학 준비 중입니다
+- 💻 데이터 사이언스에 관심이 있습니다
+- 📍 서울시 영등포구에 살고 있습니다
+- 🌱 MBTI는 ISFP입니다
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 취미
+-영화나 드라마 시청
+-음악 감상
+-일기 쓰기
+
+---
+
+## 📫 연락처
+- 이메일: kwonyejin07@naver.com
+        kwonyejin07@gmail.com
+- 연락처: 010-5893-9022
+
+---
+
+## 💬 목표
+> "앞으로 데이터 사이언티스트가 되는 것이 목표입니다"  
+> "열심히 공부해서 아이엘츠/PTE에서 고득점을 맞고 싶어요"
+
+  
